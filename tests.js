@@ -1,4 +1,3 @@
-node.js
 var index = require("./index.js")
 
 if (index.name === "Susan") {
